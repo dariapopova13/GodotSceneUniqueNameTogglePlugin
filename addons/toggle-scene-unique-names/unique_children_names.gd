@@ -1,6 +1,6 @@
 extends EditorInspectorPlugin
 
-var interface = preload("res://addons/ToggleSceneUniqueNames/ui/Control.tscn")
+var interface = preload("res://addons/toggle-scene-unique-names/ui/Control.tscn")
 
 var node
 
